@@ -1,5 +1,11 @@
 # Python-Exercises
 
+# Requeriemientos:
+- Python 3.11.5
+
+# Librerías utilizadas:
+- random (Ejercicios 3 y 5)
+  
 # Ejercicio 1
 
 Crea un programa que solicite al usuario introducir un número entero positivo y lo almacene en una variable. Si lo introducido por el usuario:
