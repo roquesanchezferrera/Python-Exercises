@@ -15,7 +15,7 @@ a) No es un número se deberá mostrar por pantalla un mensaje de error que le i
 
 b) No es un número entero se deberá mostrar por pantalla un mensaje de error que le informe de que lo introducido no es un número entero. Tras ello, el programa deberá volver a solicitarle que introduzca un número entero positivo.
 
-c) No es un número entero positivo se deberá mostrar por pantalla un mensaje de error que le informe de que lo introducido no es un número entero positivo. Tras ello, el programa deberá volver a solicitarle que introduzca un número entero positivo.
+c) No es un número entero positivo se deberá mostrar por pantalla un mensaje de error que le informe de que lo introducido no es un número entero positivo. Tras ello, el programa deberá volver a solicitarle que introduzca un número entero positivo.
 
 d) Es un número entero positivo deberás crear una función que lo reciba y compruebe si el número es primo o no. La función deberá devolver un mensaje que informe al usuario del resultado.
 
