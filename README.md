@@ -1,7 +1,7 @@
 # Python-Exercises
 Ejercicios básicos de programación en python.
 
-# Requeriemientos:
+# Requerimientos:
 - Python 3.11.5
 
 # Librerías utilizadas:
