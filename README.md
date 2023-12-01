@@ -1,4 +1,5 @@
 # Python-Exercises
+Ejercicios básicos de programación en python.
 
 # Requeriemientos:
 - Python 3.11.5
